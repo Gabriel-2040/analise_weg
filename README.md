@@ -113,7 +113,40 @@ Fundada em 16/09/1961 em Jaraguá do Sul/SC por Werner Voigt, Eggon da Silva e G
 --- 
 
 
-Patrimonio
+### Patrimônio
 
-Receita
+**Balanço Patrimonial - Consolidado**  
+
+| Conta                              | 31/03/2025   | 31/12/2024   |
+|------------------------------------|-------------:|-------------:|
+| Ativo Imobilizado, Investimentos e Intangível | 12.813.416 | 12.826.122 |
+| Ativo Total                        | 39.323.514   | 41.489.701   |
+| Patrimônio Líquido                 | 22.228.788   | 23.125.217   |
+| Patrimônio Líquido Atribuído à Controladora | 21.281.621 | 22.204.221 |
+
+### Receita
+
+**Demonstração do Resultado - Consolidado**  
+
+| Conta                              | 01/01/2025 a 31/03/2025 | 01/01/2024 a 31/03/2024 |
+|------------------------------------|------------------------:|------------------------:|
+| Receita de Venda                   | 10.078.571              | 8.033.304               |
+| Resultado Bruto                    | 3.316.020               | 2.670.704               |
+| Resultado de Equivalência Patrimonial | (517)                  | 73                    |
+| Resultado Financeiro               | 40.103                  | 72.452                  |
+| Resultado Líquido das Operações Continuadas | 1.637.180       | 1.377.254              |
+| Lucro (Prejuízo) do Período        | 1.637.180               | 1.377.254               |
+| Lucro (Prejuízo) do Período Atribuído à Controladora | 1.546.036 | 1.327.964 |
+
+**Demonstração do Fluxo de Caixa - Consolidado**  
+
+| Conta                              | 01/01/2025 a 31/03/2025 | 01/01/2024 a 31/03/2024 |
+|------------------------------------|------------------------:|------------------------:|
+| Atividades Operacionais            | 540.543                 | 1.578.370               |
+| Atividades de Investimento         | (701.840)               | (386.203)               |
+| Atividades de Financiamento        | (2.002.963)             | (1.798.110)             |
+| Variação Cambial sobre Caixa e Equivalentes | (194.119)        | 38.574                |
+| Aumento (Redução) de Caixa e Equivalentes | (2.358.379)      | (567.369)               |
+
+#### fonte: ```https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/5410/CODBOLSA/overview?language=pt-br
 
