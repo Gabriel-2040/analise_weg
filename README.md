@@ -2,7 +2,7 @@
 
 # Objetivo
 
-O objetivo desse trabalho é analisar os dados fornecidos pela emrpesa no seu reloatorio e poder retirar deles alguns insights.
+O objetivo desse trabalho é analisar os dados fornecidos pela emrpesa no seu relatório e poder retirar deles alguns insights.
 
 ---
 
