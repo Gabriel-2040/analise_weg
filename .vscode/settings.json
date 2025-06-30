@@ -1,5 +1,6 @@
 {
     "python.analysis.extraPaths": [
         "./_04_ETL/funcoes"
-    ]
+    ],
+    "taipyStudio.gUI.elementsFilePaths": []
 }
