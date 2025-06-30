@@ -1,9 +1,8 @@
-# Analáise exploratória Empresa WEG
+# Análise exploratória Empresa WEG
 
 # Objetivo
 
-O objetivo desse trabalho é analisar os dados fornecidos pela emrpesa no seu reloatorio e poder retirar deles alguns insights.
-
+O objetivo desse trabalho é analisar os dados fornecidos pela empresa no seu relatório e poder retirar deles alguns insights.
 
 ---
 
@@ -15,9 +14,6 @@ Fundada em 16/09/1961 em Jaraguá do Sul/SC por Werner Voigt, Eggon da Silva e G
 
 ---
 
-## Histórico Cronológico
-
-```markdown
 ## Histórico Cronológico
 
 | Ano  | Evento |
@@ -73,7 +69,6 @@ Fundada em 16/09/1961 em Jaraguá do Sul/SC por Werner Voigt, Eggon da Silva e G
 | 2023 | - Aquisição total da BirminD<br>- Investimento de US$ 40 milhões no México<br>- Compra de negócios da Regal Rexnord<br>- Investimento de R$ 1,2 bi em transformadores |
 | 2024 | Alberto Yoshikazu Kuba assume presidência executiva |
 
-
 ---
 
 ## Atuação Global
@@ -112,8 +107,6 @@ Fundada em 16/09/1961 em Jaraguá do Sul/SC por Werner Voigt, Eggon da Silva e G
 
 --- 
 
-
 Patrimonio
 
 Receita
-
