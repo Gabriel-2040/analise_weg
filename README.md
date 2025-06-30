@@ -1,4 +1,4 @@
-# Analáise exploratória Empresa WEG
+# Análise exploratória Empresa WEG
 
 # Objetivo
 
