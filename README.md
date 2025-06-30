@@ -4,7 +4,6 @@
 
 O objetivo desse trabalho é analisar os dados fornecidos pela emrpesa no seu reloatorio e poder retirar deles alguns insights.
 
-
 ---
 
 # História da WEG
@@ -18,7 +17,6 @@ Fundada em 16/09/1961 em Jaraguá do Sul/SC por Werner Voigt, Eggon da Silva e G
 ## Histórico Cronológico
 
 ```markdown
-## Histórico Cronológico
 
 | Ano  | Evento |
 |------|--------|
@@ -73,7 +71,7 @@ Fundada em 16/09/1961 em Jaraguá do Sul/SC por Werner Voigt, Eggon da Silva e G
 | 2023 | - Aquisição total da BirminD<br>- Investimento de US$ 40 milhões no México<br>- Compra de negócios da Regal Rexnord<br>- Investimento de R$ 1,2 bi em transformadores |
 | 2024 | Alberto Yoshikazu Kuba assume presidência executiva |
 
-
+```
 ---
 
 ## Atuação Global
@@ -148,5 +146,5 @@ Fundada em 16/09/1961 em Jaraguá do Sul/SC por Werner Voigt, Eggon da Silva e G
 | Variação Cambial sobre Caixa e Equivalentes | (194.119)        | 38.574                |
 | Aumento (Redução) de Caixa e Equivalentes | (2.358.379)      | (567.369)               |
 
-#### fonte: ```https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/5410/CODBOLSA/overview?language=pt-br
+#### fonte: https://sistemaswebb3-listados.b3.com.br/listedCompaniesPage/main/5410/CODBOLSA/overview?language=pt-br
 
