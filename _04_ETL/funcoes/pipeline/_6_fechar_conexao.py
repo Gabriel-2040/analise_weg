@@ -1,3 +1,10 @@
+import pandas as pd
+import os
+import sys
+from pathlib import Path  # Melhor forma para trabalhar com caminhos
+from unidecode import unidecode
+
+
 def fechar_conexao(conexao, cursor):
     #encerrar conexão com banco postgres
     try:
